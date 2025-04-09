@@ -53,8 +53,8 @@ button {
 
 .c-nav-item {
     width: calc(25% - 10px);
-    background-color: #ff6f61;
-    color: white;
+    background-color: #7bffbb;
+    color: rgb(17, 16, 16);
     padding: 12px 0;
     border-radius: 12px;
     text-align: center;
@@ -62,7 +62,7 @@ button {
 }
 
 .c-nav-item:hover {
-    background-color: #ff8a65;
+    background-color: #8ee9df;
     transform: scale(1.05);
-    color: #fffde7;
+    color: #0b0b0a;
 }
